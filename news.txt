@@ -1,1 +1,1 @@
-BUILD 9: The first version of Corrosion (Early GamePrototype). Decor added and some bugs fixed.
+BUILD 9: The first version of Corrosion (Early GamePrototype). Decor added and some bugs fixed. Test
